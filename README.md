@@ -1,4 +1,4 @@
-# lbyec2b_eb4_ares
+# ec2bAresProject
 
 Group Ares - EB4
 
