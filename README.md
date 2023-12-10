@@ -2,9 +2,9 @@
 
 Group Ares - EB4
 
-Diaz, John Patrick M.
-Lugtu, Nathan Angelo D.
-Infante, Rey Allen C.
+John Patrick M. Diaz
+Nathan Angelo D. Lugtu
+Rey Allen C. Infante
 
 Proposed Project: Engineering Equations Assistant
 Features:
