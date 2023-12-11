@@ -3,10 +3,13 @@
 Group Ares - EB4
 
 John Patrick M. Diaz
-Nathan Angelo D. Lugtu
-Rey Allen C. Infante
+Nathan Angelo D. Lugtu (Hasn't inputted unfortunately)
+Rey Allen C. Infante (Hasn't inputted unfortunately)
 
-Proposed Project: Engineering Equations Assistant
+Proposed Project: Solving Linear Differential Equations Using the Quadratic ODE Method
 Features:
-  - Equation Solver: Create a program that solves differential equations using the Laplace transform method.
-  - Plotting: Create a graph that visualizes the results of the computed function through graphs.
+  - Equation Solver: Create a code that can solve for the roots of the quadratic equation as well as classify them according to the value of its discriminant.
+  - Discriminant value has three kinds:
+    - Positive
+    - Zero
+    - Negative
