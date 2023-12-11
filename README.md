@@ -8,7 +8,5 @@ Rey Allen C. Infante
 
 Proposed Project: Engineering Equations Assistant
 Features:
-  - Equation Solver: Create functions to solve engineering equations, such as algebraic, differential, or integral equations.
-  - Unit Conversion: Include the ability to convert units, a common need in engineering calculations. Provide options to input data in different units and convert them as necessary.
-  - Plotting: Add a feature to visualize results using plots and graphs.
-  - Results Display: Display the calculated results clearly and neatly, including units where applicable. MATLAB's built-in formatting functions can help implement this.
+  - Equation Solver: Create a program that solves differential equations using the Laplace transform method.
+  - Plotting: Create a graph that visualizes the results of the computed function through graphs.
